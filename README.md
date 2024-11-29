@@ -10,7 +10,7 @@ This Android applicationis a fun and engaging word guessing game. Players try to
   <img src="https://github.com/user-attachments/assets/c0a38d70-87cb-48fe-a33d-dffe60daf6d3" alt="Screenshot 3" width="20%">
 </p>
 
-## Demo 👇
+## Demo
 
 <p>
   <a href="https://www.linkedin.com/posts/akash-de-alwis-976a82284_androiddevelopment-mobileapp-wordguessinggame-activity-7253297457608962048-1aQ6?utm_source=combined_share_message&utm_medium=member_desktop_web" target="_blank" style="text-decoration:none;">
